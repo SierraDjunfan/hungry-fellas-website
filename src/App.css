@@ -1,0 +1,107 @@
+html {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  user-select: none;
+}
+
+/* Small*/
+@media (min-width: 320px) {
+  html {
+    font-size: 18px;
+  }
+  #gameplay-video {
+    width: 90%;
+  }
+}
+
+/* Medium */
+@media (min-width: 768px) {
+  html {
+    font-size: 22px;
+  }
+  #gameplay-video {
+    width: 80%;
+  }
+}
+
+/* Large */
+@media (min-width: 992px) {
+  html {
+    font-size: 26px;
+  }
+  #gameplay-video {
+    width: 75%;
+  }
+}
+
+/* Extra Large */
+@media (min-width: 1200px) {
+  html {
+    font-size: 30px;
+  }
+  #gameplay-video {
+    width: 65%;
+  }
+}
+
+/* Extra Extra Large */
+@media (min-width: 1400px) {
+  html {
+    font-size: 30px;
+  }
+  #gameplay-video {
+    width: 55%;
+  }
+}
+
+:root {
+  --background-color: #474A34;
+  --text-color: #1F2117;
+  --font-header: 'Chatlong';
+  --text-small: 0.5rem;
+  --text-medium: 1rem;
+  --text-large: 2.5rem;
+}
+
+
+@font-face {
+  font-family: 'Chatlong';
+  src: url('./assets/fonts/Chatlong.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+#screen {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+h1 {
+  color: white;
+  font-family: var(--font-header);
+  font-size: var(--text-large);
+  margin-top: 4rem;
+  margin-bottom: 0rem;
+}
+
+p {
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: var(--text-medium);
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+#gameplay-video {
+  margin-top: 2rem;
+}
