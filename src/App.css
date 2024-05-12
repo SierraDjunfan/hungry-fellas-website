@@ -11,7 +11,7 @@ html {
     font-size: 18px;
   }
   #gameplay-video {
-    max-height: 80vh;
+    max-height: 70vh;
     width: auto;
     max-width: 90%;
   }
@@ -23,7 +23,7 @@ html {
     font-size: 22px;
   }
   #gameplay-video {
-    max-height: 80vh;
+    max-height: 70vh;
     width: auto;
     max-width: 80%;
   }
@@ -35,7 +35,7 @@ html {
     font-size: 26px;
   }
   #gameplay-video {
-    max-height: 80vh;
+    max-height: 70vh;
     width: auto;
     max-width: 75%;
   }
@@ -47,7 +47,7 @@ html {
     font-size: 30px;
   }
   #gameplay-video {
-    max-height: 80vh;
+    max-height: 70vh;
     width: auto;
     max-width: 65%;
   }
@@ -59,7 +59,7 @@ html {
     font-size: 30px;
   }
   #gameplay-video {
-    max-height: 80vh;
+    max-height: 70vh;
     width: auto;
     max-width: 55%;
   }
