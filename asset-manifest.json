@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hungry-fellas-website/static/css/main.6fc085ee.css",
+    "main.css": "/hungry-fellas-website/static/css/main.57f6478b.css",
     "main.js": "/hungry-fellas-website/static/js/main.bc9fce82.js",
     "static/js/453.8787806d.chunk.js": "/hungry-fellas-website/static/js/453.8787806d.chunk.js",
     "static/media/Chatlong.ttf": "/hungry-fellas-website/static/media/Chatlong.14dbf5a5a6ccca2a611e.ttf",
     "index.html": "/hungry-fellas-website/index.html",
-    "main.6fc085ee.css.map": "/hungry-fellas-website/static/css/main.6fc085ee.css.map",
+    "main.57f6478b.css.map": "/hungry-fellas-website/static/css/main.57f6478b.css.map",
     "main.bc9fce82.js.map": "/hungry-fellas-website/static/js/main.bc9fce82.js.map",
     "453.8787806d.chunk.js.map": "/hungry-fellas-website/static/js/453.8787806d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fc085ee.css",
+    "static/css/main.57f6478b.css",
     "static/js/main.bc9fce82.js"
   ]
 }
