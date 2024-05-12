@@ -5,7 +5,7 @@ function App() {
     <div id="screen">
       <h1>HUNGRY FELLAS</h1>
       <p>COMING SOON</p>
-      <video autoPlay loop muted id="gameplay-video">
+      <video autoPlay loop muted playsInline id="gameplay-video">
         <source src="gameplay.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
