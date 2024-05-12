@@ -83,14 +83,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 0.5rem;
 }
 
 h1 {
   color: white;
   font-family: var(--font-header);
   font-size: var(--text-large);
-  margin-top: 4rem;
+  margin-top: 0rem;
   margin-bottom: 0rem;
 }
 
@@ -103,5 +102,10 @@ p {
 }
 
 #gameplay-video {
-  margin-top: 2rem;
+  margin-top: 0rem;
+}
+
+#heading {
+  display: flex;
+  flex-direction: column;
 }
